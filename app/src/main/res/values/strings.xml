@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DragNDrop</string>
+    <string name="dummy_app_label">App Label</string>
+</resources>
